@@ -13,3 +13,6 @@ IP-Tracer adalah alat open-source yang menggunakan API dari ip-api.com untuk men
 - Koordinat Presisi: Memberikan data Latitude & Longitude.
 - Integrasi Google Maps: Menghasilkan tautan langsung ke lokasi di Google Maps.
 - Antarmuka User-Friendly: Tampilan menu yang rapi dan mudah dioperasikan.
+
+## 📸 Screenshots
+![alt text](https://github.com/asta0x/osintktp/blob/main/images/main_menu.jpg?raw=true)
