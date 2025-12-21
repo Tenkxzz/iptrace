@@ -15,4 +15,4 @@ IP-Tracer adalah alat open-source yang menggunakan API dari ip-api.com untuk men
 - Antarmuka User-Friendly: Tampilan menu yang rapi dan mudah dioperasikan.
 
 ## 📸 Screenshots
-![alt text](https://github.com/asta0x/osintktp/blob/main/images/main_menu.jpg?raw=true)
+![alt text](https://github.com/asta0x/iptrace/blob/main/images/main_menu.jpg?raw=true)
