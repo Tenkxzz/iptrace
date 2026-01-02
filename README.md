@@ -33,7 +33,7 @@ pip install pycryptodome
 
 pkg install git
 
-git clone https://github.com/asta0x/iptrace.git
+git clone https://github.com/Tenkxzz/iptrace.git
 
 cd iptrace
 
